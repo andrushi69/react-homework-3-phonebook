@@ -1,0 +1,23 @@
+.search {
+  width: 30%;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+
+  .search_label {
+    width: 100%;
+    display: flex;
+
+    .search_input {
+      width: 100%;
+      border: 1.5px solid fuchsia;
+      background-color: greenyellow;
+      height: 35px;
+      outline: none;
+      padding: 0 0 0 15px;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+  }
+
+}

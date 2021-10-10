@@ -1,0 +1,31 @@
+.contact_list {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: 20px auto 0;
+
+  li {
+    width: 100%;
+    display: flex;
+    color: fuchsia;
+    margin-bottom: 10px;
+    justify-content: space-between;
+
+    .name {
+      font-size: 15px;
+      font-weight: bold;
+    }
+
+    .number {
+      color: greenyellow;
+    }
+
+    button {
+      border: 1px solid fuchsia;
+      height: 25px;
+      border-radius: 5px;
+      color: fuchsia;
+      background-color: transparent;
+    }
+  }
+}
