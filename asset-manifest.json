@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-homework-3-phonebook/static/css/main.d86bded7.chunk.css",
+    "main.js": "/react-homework-3-phonebook/static/js/main.0b1848c9.chunk.js",
+    "main.js.map": "/react-homework-3-phonebook/static/js/main.0b1848c9.chunk.js.map",
+    "runtime-main.js": "/react-homework-3-phonebook/static/js/runtime-main.81bf0fea.js",
+    "runtime-main.js.map": "/react-homework-3-phonebook/static/js/runtime-main.81bf0fea.js.map",
+    "static/js/2.5cb3576c.chunk.js": "/react-homework-3-phonebook/static/js/2.5cb3576c.chunk.js",
+    "static/js/2.5cb3576c.chunk.js.map": "/react-homework-3-phonebook/static/js/2.5cb3576c.chunk.js.map",
+    "index.html": "/react-homework-3-phonebook/index.html",
+    "static/css/main.d86bded7.chunk.css.map": "/react-homework-3-phonebook/static/css/main.d86bded7.chunk.css.map",
+    "static/js/2.5cb3576c.chunk.js.LICENSE.txt": "/react-homework-3-phonebook/static/js/2.5cb3576c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81bf0fea.js",
+    "static/js/2.5cb3576c.chunk.js",
+    "static/css/main.d86bded7.chunk.css",
+    "static/js/main.0b1848c9.chunk.js"
+  ]
+}
